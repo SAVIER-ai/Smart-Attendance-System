@@ -79,22 +79,23 @@ into MySQL.
 ## Screenshots
 
 ### Login Screen
-![Login](screenshots/login.jpeg)
+
+![Login]<img src="screenshots/login.jpeg" width="250">
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_D.jpeg)
+![Admin Dashboard]<img src="screenshots/admin_D.jpeg" width="250">
 
 ### Teacher Dashboard
-![Teacher Dashboard](screenshots/teacher_D.jpeg)
+![Teacher Dashboard]<img src="screenshots/teacher_D.jpeg" width="250">
 
 ### Face Attendance
-![Face Attendance](screenshots/face_attendence.jpeg)
+![Face Attendance]<img src="screenshots/face_attendence.jpeg" width="250">
 
 ### Manual Attendance
-![Manual Attendance](screenshots/manual_attendence.jpeg)
+![Manual Attendance]<img src="screenshots/manual_attendence.jpeg" width="250">
 
 ### Reports
-![Reports](screenshots/report.jpeg)
+![Reports]<img src="screenshots/report.jpeg" width="250">
 
 ## Author
 

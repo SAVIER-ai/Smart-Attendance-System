@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Face images
+uploads/
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+.gradle/
+local.properties
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+
+# Environment files
+.env

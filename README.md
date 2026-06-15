@@ -76,6 +76,26 @@ into MySQL.
 * Manual Attendance
 * Reports & Analytics
 
+## Screenshots
+
+### Login Screen
+![Login](screenshots/login.jpeg)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_D.jpeg)
+
+### Teacher Dashboard
+![Teacher Dashboard](screenshots/teacher_D.jpeg)
+
+### Face Attendance
+![Face Attendance](screenshots/face_attendence.jpeg)
+
+### Manual Attendance
+![Manual Attendance](screenshots/manual_attendence.jpeg)
+
+### Reports
+![Reports](screenshots/report.jpeg)
+
 ## Author
 
 Sai Verma
